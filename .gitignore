@@ -12,3 +12,13 @@ wheels/
 # .env files
 .env
 .env.*
+
+# db files
+db
+*.sqlite3
+
+# other files
+.DS_Store
+log
+*.log
+
